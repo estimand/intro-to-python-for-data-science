@@ -7,6 +7,14 @@
 
 The session is designed to be delivered over three hours (including breaks).
 
+| Topic                            | Time        |
+| -------------------------------- | ----------- |
+| Loading and exploring data files | 45 minutes  |
+| Summarising data                 | 30 minutes  |
+| Visualising data                 | 30 minutes  |
+| Exercises                        | 45 minutes  |
+| *Total*                          | *2.5* hours |
+
 ## Additional resources
 
 * [`pandas` documentation](http://pandas.pydata.org/pandas-docs/stable/)
