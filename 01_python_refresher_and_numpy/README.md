@@ -10,7 +10,7 @@ The session is designed to be delivered over three hours (including breaks).
 | Topic                            | Time        |
 | -------------------------------- | ----------- |
 | Python refresher                 | 15 minutes  |
-| Problems                         | 75 minutes  |
+| Programming problems             | 75 minutes  |
 | Scientific computing using NumPy | 15 minutes  |
 | NumPy notebook                   | 45 minutes  |
 | *Total*                          | *2.5* hours |
