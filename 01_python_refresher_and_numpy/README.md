@@ -13,5 +13,4 @@ The session is designed to be delivered over three hours (including breaks).
 | Programming problems  | 75 minutes  |
 | Introduction to NumPy | 15 minutes  |
 | NumPy notebook        | 45 minutes  |
-| *Total*               | *2.5* hours |
 
